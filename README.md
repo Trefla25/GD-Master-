@@ -1,4 +1,4 @@
-# 🎮 Calificări pentru Dezvoltarea de Jocuri
+# 🎮 Calificări pentru Game Development
 
 Acest document prezintă abilitățile și experiența mea care mă califică pentru masterul de Game Development.
 
